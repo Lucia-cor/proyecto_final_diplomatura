@@ -1,0 +1,2 @@
+JAWSDB_URL:     mysql://pcw1jg4f7pxh6uo9:jkrs8fp183el0tu5@wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com/nrvpxbdw8fr0222p
+DB name: nrvpxbdw8fr0222p 
